@@ -15,7 +15,7 @@
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
                    <p class="eys-parrafo">Hola, yo soy  Gabriel Jesus <b> Suarez Soto </b>, Estudiante de ingenieria en TIC en la Universidad Tecnica Luis Vargas Torres. </p>
-                   <p class="eys-parrafo">Me considero una persona apasionada, enfocada y dedicada. Naci en Esmeraldas, creci en un entorno que lo impulsó a ser una persona abierta, creativa y curiosa ,por eso decidi entrar en esta carrera para poder sumergirme en el mundo cada vez mas tecnologico. </p>
+                   <p class="eys-parrafo">Me considero una persona apasionada, enfocada y dedicada. Naci en Esmeraldas, creci en un entorno que me impulsó a ser una persona abierta, creativa y curiosa ,por eso decidi entrar en esta carrera para poder sumergirme en el mundo cada vez mas tecnologico. </p>
 <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar  en el colegio fue  <b><a href="https://es.wikipedia.org/wiki/C%2B%2B">C++</a></b> en sus laboratorios.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>

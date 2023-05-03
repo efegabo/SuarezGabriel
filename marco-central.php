@@ -15,7 +15,7 @@
   <div style="width: 100%; height:100%;" >
            <div  style="text-align:justify; font-size: 20px;">
                    <p class="eys-parrafo">Hola, yo soy  Gabriel Jesus <b> Suarez Soto </b>, Estudiante de ingenieria en TIC en la Universidad Tecnica Luis Vargas Torres. </p>
-                   <p class="eys-parrafo">Desde mís estudios secundarios me he apacionado por las ciencias y la tecnología, quieza sería  por esta capacidad que tiene estas dos áres del conocimiento de solucionar muchos probemas de la sociedad; por eso decidi entrar en esta carrera para poder sumergirme en el mundo cada vez mas tecnologico. </p>
+                   <p class="eys-parrafo">Me considero una persona apasionada, enfocada y dedicada. Naci en Esmeraldas, creci en un entorno que lo impulsó a ser una persona abierta, creativa y curiosa ,por eso decidi entrar en esta carrera para poder sumergirme en el mundo cada vez mas tecnologico. </p>
 <p class="eys-parrafo"> El primer lenguaje con el cual empece a programar  en el colegio fue  <b><a href="https://es.wikipedia.org/wiki/C%2B%2B">C++</a></b> en sus laboratorios.</p>
 
    <div id="blog-seccion2"  style="height: 50px;"></div>
@@ -24,8 +24,10 @@
     
 
 
-                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Eloy Alfaro  donde me gradue en el año 2019, de la especialidad de Administracion en sistema, apenas me gradue segui mis estudios universitarios en la Universidad Tecnica luis vargas torres</p>
-                   <p class="eys-parrafo">Ya con el título en la mano decidi regrasar a mi tierra Esmeraldas, con la finalidad de aplicar los conocimiento y habilidades obtenida por lo que forme la empresa EDUCAYSOFT, pero como los ingreso no fueron suficiente entre a trabajar al colegio Eloy Alfaro y posteiormente a la Universidad Técnica Luis Vargas Torres donde actualmente estudio.</p>
+                   <p class="eys-parrafo">Mis estudios secundarios los realice en el colegio Eloy Alfaro  donde me gradue en el año 2019, de la especialidad de Administracion en sistema, apenas me gradue segui mis estudios universitarios en la Universidad Tecnica luis vargas torres
+              
+              </p>
+                  
  
    <div id="blog-seccion3"  style="height: 50px;"></div>
 
